@@ -3,6 +3,7 @@
 //  SwiftUI-Weather
 //
 //  Created by Ismayil Tahmazov on 21.04.21.
+
 //
 
 import SwiftUI
